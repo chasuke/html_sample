@@ -1,0 +1,15 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html lang="ja">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=Shift_JIS">
+    <title>名前トップページ</title>
+</head>
+<body>
+    <p>
+    <center>
+        <span style="font-size : 400%; color : #009900; ">染谷 広幸</span><br>
+        <img src="logo2.gif" width="406" height="94" border="0" alt="がんばれ！ ">
+    </center>
+    </p>
+</body>
+</html>
